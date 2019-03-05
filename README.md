@@ -4,3 +4,5 @@ A Chinese automobile company Geely Auto aspires to enter the US market by settin
 
 1. Which variables are significant in predicting the price of a car
 2. How well those variables describe the price of a car
+
+Developed a regression model to predict the price of cars in the American automobile market by analyzing physical and intangible attributes of the vehicle.
